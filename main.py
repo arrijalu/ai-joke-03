@@ -4,7 +4,7 @@
 import os
 import sys
 
-JOKE = "It removed the dead code, then the code that made it dead, then the tests that covered it."
+JOKE = "It fixed the bug, then the test for the bug, then the bug report."
 
 MAX_LEN = 280
 
