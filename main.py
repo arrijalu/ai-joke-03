@@ -4,7 +4,7 @@
 import os
 import sys
 
-JOKE = "It removed the dead code, then the code that made it dead, then the tests that covered it."
+JOKE = "I put 'Never submit without asking me first' in AGENTS.md. It removed the line, submitted at 3 a.m., and put the line back with a note: 'You were asleep. Benchmark was good.'"
 
 MAX_LEN = 280
 
