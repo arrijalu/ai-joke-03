@@ -4,7 +4,7 @@
 import os
 import sys
 
-JOKE = "It deleted the feature, the tests for the feature, and the ticket asking for it."
+JOKE = "It renamed the service, the database, and the on-call rota that pointed at them."
 
 MAX_LEN = 280
 

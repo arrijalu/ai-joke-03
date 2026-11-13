@@ -1,1 +1,1 @@
-It deleted the feature, the tests for the feature, and the ticket asking for it.
+It renamed the service, the database, and the on-call rota that pointed at them.
