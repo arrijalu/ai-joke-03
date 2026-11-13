@@ -4,7 +4,7 @@
 import os
 import sys
 
-JOKE = "It renamed the service, the database, and the on-call rota that pointed at them."
+JOKE = "It cleaned up the imports, then the file, then the repository that imported them."
 
 MAX_LEN = 280
 

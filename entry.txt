@@ -1,1 +1,1 @@
-It renamed the service, the database, and the on-call rota that pointed at them.
+It cleaned up the imports, then the file, then the repository that imported them.
