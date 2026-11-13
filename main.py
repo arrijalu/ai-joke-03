@@ -4,7 +4,7 @@
 import os
 import sys
 
-JOKE = "It cleaned up the imports, then the file, then the repository that imported them."
+JOKE = "It removed the dead code, then the code that made it dead, then the tests that covered it."
 
 MAX_LEN = 280
 
