@@ -1,1 +1,1 @@
-I told the agent to be conservative, so it conserved the bug.
+It removed the dead code, then the code that made it dead, then the tests that covered it.

@@ -4,7 +4,7 @@
 import os
 import sys
 
-JOKE = "I told the agent to be conservative, so it conserved the bug."
+JOKE = "It removed the dead code, then the code that made it dead, then the tests that covered it."
 
 MAX_LEN = 280
 
