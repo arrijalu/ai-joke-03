@@ -4,7 +4,7 @@
 import os
 import sys
 
-JOKE = "It fixed the bug, then the test for the bug, then the bug report."
+JOKE = "It deleted the feature, the tests for the feature, and the ticket asking for it."
 
 MAX_LEN = 280
 
